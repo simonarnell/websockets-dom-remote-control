@@ -1,0 +1,29 @@
+{
+  "type":"container",
+  "flexDirection":"column",
+  "items":[{
+    "type":"container",
+    "flexDirection":"row",
+    "items":[{
+	  "type":"item",
+	  "flex":"2 1 auto",
+	  "src":"http://www.bbc.co.uk/news"
+	},
+	{
+	  "type":"item",
+	  "src":"http://www.theregister.co.uk"
+	}]
+  },
+  {
+    "type":"item",
+	"src":"http://www.yle.fi"
+  },
+  {
+    "type":"item",
+	"src":"https://slashdot.org"
+  },
+  {
+    "type":"item",
+	"src":"http://www.cnn.com"
+  }]
+}

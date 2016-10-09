@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+body * {
+  flex-grow: 1;
+}
